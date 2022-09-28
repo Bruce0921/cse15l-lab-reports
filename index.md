@@ -9,3 +9,11 @@ Happy to be in this course
 - There are much more..
 ---
 [TestTheLinks](http://google.com)
+---
+`Life is kind of hard`
+
+`more code need to be done`
+```
+I am here
+I am also here
+```
