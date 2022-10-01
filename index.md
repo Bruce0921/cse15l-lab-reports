@@ -20,4 +20,3 @@ I am also here
 # More links
 [Lab Report 1](lab-report-1-week-0.html)
 
-[Lab Report 1](https://Bruce0921.github.io/<your-lab-reports-repo>/lab-report-1-week-0.html)
