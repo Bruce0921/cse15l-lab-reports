@@ -61,6 +61,9 @@ thus search and return whatever contains any fragment of the coe in the path.
 # Part2
 - Array Methods!!
 - For ArrayTests
+![Image](3.14.png)
+
+- Now we see the test failure-inducing input and the terminal showing the symptom from this failure inducing input.
 ![Image](3.8.png)
 
 
