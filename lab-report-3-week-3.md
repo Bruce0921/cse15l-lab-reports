@@ -38,6 +38,7 @@ added into a Arraylist to store the string value. For latter search purposes.
 
 ![Image](3.3.png)
 
+
 -Try it again
 handleRequest method was called
 path now contains add and takes the query as "=apple" after the "?"; 
@@ -45,6 +46,7 @@ Thus return "String added" + Stringadded('apple' in this case);
 added into a Arraylist to store the string value. For latter search purposes.
 
 ![Image](3.4.png)
+
 
 -Tyring "search"
 handleRequest method was called
@@ -57,6 +59,7 @@ thus search and return whatever contains any fragment of the coe in the path.
 -Array Methods!!
 -For ArrayTests
 ![Image](3.8.png)
+
 
   -Failures!!!
 -There are some thing going wrong obviously according to its symptomps.
