@@ -59,8 +59,8 @@ thus search and return whatever contains any fragment of the coe in the path.
 ---
 
 # Part2
--Array Methods!!
--For ArrayTests
+- Array Methods!!
+- For ArrayTests
 ![Image](3.8.png)
 
 
@@ -98,6 +98,7 @@ This problem will be solved.
 
 - Why?
 Here is the bug:
+
 ![Image](3.13.png)
 
 
