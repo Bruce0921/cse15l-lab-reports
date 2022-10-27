@@ -2,9 +2,9 @@
 ## Here is my Lab report for week 3：
 
 # Part 1.
--Simplest Search Engine!!
--Implementing a web server, we can now play with the urls.
-  here is what I did
+ - Simplest Search Engine!!
+ - Implementing a web server, we can now play with the urls.
+   here is what I did
   
 ![Image](3.6.png)
 
