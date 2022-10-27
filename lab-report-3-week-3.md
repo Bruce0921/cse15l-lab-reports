@@ -16,7 +16,7 @@ If those values change, how they change by the time the request is done processi
   Add strings and search strings or part of a string.
   
 - Thats awsome, here are some screenshots when it is running.
-- 
+
 ![Image](3.7.png)
 
 - First we created the web server via java
@@ -102,4 +102,5 @@ Here is the bug:
 
 
 The problem is the incrementing index is index1 instead of index2, thus causing an infinite while loop that causes ‘OutOfMemoryError’.
+
 ---
