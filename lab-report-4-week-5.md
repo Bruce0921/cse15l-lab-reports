@@ -10,7 +10,7 @@
 
   - ![Image](4.1.png)
 
-  - -N command helped to shows line numbers.
+  - -N command can help to shows line numbers.
 
 
 ```
@@ -19,8 +19,8 @@
   - ![Image](4.2.png)
   - ![Image](4.3.png)
 
-  - By default, when less exits, the file contents will be cleared from the screen.
-  - The -X command helps to leave file contents on screen
+  - By default, when we use less, the file contents will be cleared from the screen.
+  - The -X command helps to leave file contents on screen so that we can keep looking the results in the terminal.
 
 ```
   - less +F filename
