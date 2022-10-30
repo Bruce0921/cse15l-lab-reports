@@ -56,8 +56,29 @@
 # More Greb Commands!
 
 ```
-  grep . -type f
+  grep -i "String" file
 ```
-  - This command helps to find type f of files in the provided directory
+  - This command helps to ignore uppercase vs. lowercase; it's helpful when you do not want to care about lower and upper cases.
   - It works like this
-  - ![Image](4.8.png)
+  - ![Image](4.9.png)
+
+  - You see the american is not uppercased but there are still 81 results
+  - and without -i it matches 0
+
+```
+  grep -v "String" file
+```
+  - This command helps to searched the reservsed, inverted match of results.
+  - ![Image](4.10.png)
+
+  - Since we have seen that "grep -i 'american'" yields no match, if we invert the search with -v command
+  - it will correspond to all the lines in the file, which is 731 lines.
+
+```
+  grep -c "String" file
+```
+  - This command helps to suppress normal output; instead print a count of matching lines for each input file.
+  - 'c' stands for count
+  - Here is how it works
+  - ![Image](4.11.png)
+
