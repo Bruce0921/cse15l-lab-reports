@@ -7,6 +7,45 @@
   Changing the name of the start parameter and its uses to base
 ```
 
+![Image](5.1.png)
+
+- use /search to look for "start"
+- 
+![Image](5.2.png)
+
+- Press "Enter" to search for start 
+- 
+![Image](5.3.png)
+
+- Press N key to the first(or later searched "start")
+
+![Image](5.4.png)
+
+- Use dw key to delete the word start
+
+![Image](5.5.png)
+
+- Press i to get into INSERT mode and type "base"
+
+![Image](5.6.png)
+
+- Press "ESC" to get out of INSERT mode, so we can do the next change
+
+![Image](5.7.png)
+
+- Keep pressing N to the next "start"
+
+![Image](5.8.png)
+
+- Redo the step of dw to delete the word and use i to get into insert mode to add "base"
+- then use "ESC" to get out
+
+![Image](5.9.png)
+
+- Similar step to the last "start"
+
+![Image](5.10.png)
+
 ```
   All steps:
   1. /start<Enter>
@@ -27,36 +66,7 @@
   16.<ESC>
   17.:wq
 ```
-![Image](5.1.png)
 
-- use /search to look for "start"
-![Image](5.2.png)
-
-- Press "Enter" to search for start 
-![Image](5.3.png)
-
-- Press N key to the first(or later searched "start")
-
-![Image](5.4.png)
-- Use dw key to delete the word start
-
-![Image](5.5.png)
-- Press i to get into INSERT mode and type "base"
-
-![Image](5.6.png)
-- Press "ESC" to get out of INSERT mode, so we can do the next change
-
-![Image](5.7.png)
-- Keep pressing N to the next "start"
-
-![Image](5.8.png)
-- Redo the step of dw to delete the word and use i to get into insert mode to add "base"
-- then use "ESC" to get out
-
-![Image](5.9.png)
-- Similar step to the last "start"
-
-![Image](5.10.png)
 - Type :wq to same the changes done in the file and quit to get out.
 
 - I realized when I am working on Part2, change the last start will cause some error
@@ -85,6 +95,8 @@
 - If I can not run and test things on my own computer, if possible to the extend of program running complexity and operation system, 
 - I think I will use vim just on remote, it is very annoying to do changes and I cannot test the changes right away--I have to use scp and then log back in
 - the server. This can be really disturbing. Thus, I rather just use vim so my thoughts and ideas will not be interupted.
+
+
 ## What about the project or task might factor into your decision one way or another? (If nothing would affect your decision, say so and why!)
 - If the project or task and completely down on my local computer with tests runs perfectly, I will finish everything and then scp to the server.
 - Or the project is extremly big that is very hard to do adjustments on the remote and read code on the terminal.
