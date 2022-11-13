@@ -10,11 +10,11 @@
 ![Image](5.1.png)
 
 - use /search to look for "start"
-- 
+
 ![Image](5.2.png)
 
 - Press "Enter" to search for start 
-- 
+
 ![Image](5.3.png)
 
 - Press N key to the first(or later searched "start")
