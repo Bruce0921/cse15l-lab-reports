@@ -4,7 +4,11 @@
 # Vim My grade.sh
 
 ```
-  Changing the name of the start parameter and its uses to base
+  We used if statement first to see if the tests files are in ther
+  if it is currect, it will return 1, 0 otherwise
+  we use echo command to print out the message
+  or we choose to store the data in another file that we can access
+  so that we dont have to deal with all the messes up error messages
 ```
 # Here is what we did during the lab.
 
