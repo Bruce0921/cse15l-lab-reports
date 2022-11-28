@@ -27,3 +27,5 @@ I am also here
 [Lab Report 4](lab-report-4-week-5.html)
 
 [Lab Report 5](lab-report-4-week-7.html)
+
+[Lab Report 6](lab-report-5-week-9.10.html)
