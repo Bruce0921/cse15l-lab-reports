@@ -15,18 +15,18 @@
 
 and we add some dummy tests
 
-![Image](13.png)
+![Image](9.13.png)
 
 - Here is how we can change our grade.sh files.
 
-![Image](1.png)
+![Image](9.1.png)
 
 # Let's do some tests provided in Week 7 lab
-![Image](9.png)
+![Image](9.9.png)
 
 here is what it comes with syntax error
 
-![Image](10.png)
+![Image](9.10.png)
 
 here is what it should be almost current
 
@@ -37,11 +37,11 @@ here is what it should be almost current
 
 - They look like these:
 
-![Image](14.png)
+![Image](9.14.png)
 
-![Image](15.png)
+![Image](9.15.png)
 
-![Image](16.png)
+![Image](9.16.png)
 
 For the frist one it seems do not have such repository discription
 This is because either is does not have a ListExamples.java file
