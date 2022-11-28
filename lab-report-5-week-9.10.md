@@ -17,11 +17,11 @@
 - We have already try to differentiate different situations and privde some useful feedbacks
 - Though we did not add grading score 
 
-and we add some dummy tests
+some dummy tests
 
 ![Image](9.13.png)
 
-- Here is how we can change our grade.sh files.
+- we can change our grade.sh fileS like this.
 
 ![Image](9.1.png)
 
